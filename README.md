@@ -1,3 +1,3 @@
-# project-ccus_analysis
+# CostCaster
 
 Studies on decarbonization technologies.
