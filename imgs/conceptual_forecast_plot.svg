@@ -27,8 +27,8 @@
      showgrid="false"
      showguides="false"
      inkscape:zoom="1.4142136"
-     inkscape:cx="288.85312"
-     inkscape:cy="252.08357"
+     inkscape:cx="292.03509"
+     inkscape:cy="252.08356"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
@@ -819,7 +819,10 @@
      style="display:inline"><g
        id="g24198"
        transform="translate(-59.924594,-47.729384)"
-       inkscape:label="past_domine"><rect
+       inkscape:label="past_domine"
+       inkscape:export-filename="conceptual_forecast_plot.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><rect
          style="display:inline;fill:#e9ecef;fill-opacity:0.301961;stroke-width:0.165594"
          id="rect3059"
          width="39.633141"
@@ -1171,7 +1174,7 @@
          sodipodi:role="line"
          x="97.020424"
          y="10.461654"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583">Concept model for emission history and forecasting</tspan></text></g><g
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583">Conceptual time series</tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 3"
